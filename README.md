@@ -1,7 +1,10 @@
 ### Hi there 👋
+
+
 I am Akshita Gupta
+
 Meticulous and motivated undergraduate student ,indulged in competitive programming,Android and my main field of interest is OpenCV. 
-My BTech is focused in Computer Science and I am Treasurer from IEEE PSIT Student Branch Kanpur (Pranveer Singh Institute of Technology). 
+My BTech is focused in Computer Science.
 
 My new blog site- https://akshita1506.home.blog 
 
@@ -9,7 +12,19 @@ My new blog site- https://akshita1506.home.blog
 
 🌱 I’m currently learning Intelligent Transportation Systems using OpenCV.
 
-👯 I’m looking to collaborate on projects related to OPenCV
+👯 I’m looking to collaborate on projects related to OPenCV.
+
+📫 Reach me at: 
+                   Gmail- akshitagupta15june@gmail.com
+                   
+                                 OR
+
+                   LinkedIn- https://www.linkedin.com/in/akshita-gupta-a4a895187
+
+                 
+                    
+⚡ Fun fact about me: ✨ I love coding+baking+eating+repeating✨ 
+                  
 
 
 <!--
