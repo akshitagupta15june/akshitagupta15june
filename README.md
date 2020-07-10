@@ -15,11 +15,9 @@ My new blog site- https://akshita1506.home.blog
 👯 I’m looking to collaborate on projects related to OPenCV.
 
 📫 Reach me at: 
-                   Gmail- akshitagupta15june@gmail.com
+          Gmail- akshitagupta15june@gmail.com
                    
-                                 OR
-
-                   LinkedIn- https://www.linkedin.com/in/akshita-gupta-a4a895187
+ Linkedin- https://www.linkedin.com/in/akshita-gupta-a4a895187
 
                  
                     
