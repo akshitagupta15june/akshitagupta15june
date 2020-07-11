@@ -4,7 +4,7 @@
 ## I am Akshita Gupta
 
 Meticulous and motivated undergraduate student , indulged in competitive programming,Android and my main field of interest is OpenCV. 
-My BTech is focused in Computer Science and I am a open-source enthisiast.
+My BTech is focused in Computer Science and I am an open-source enthisiast.
 
 My new blog site- https://akshita1506.home.blog 
 
