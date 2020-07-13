@@ -10,7 +10,7 @@ My new blog site- https://akshita1506.home.blog
 
 🔭 I’m currently working as a project mentor in StudentCode-in.
 
-🌱 I’m currently learning Intelligent Transportation Systems using OpenCV.
+🌱 I’m currently learning Intelligent Transportation Systems using OpenCV and competitive programming.
 
 👯 I’m looking to collaborate on projects related to OPenCV.
 
