@@ -20,8 +20,12 @@ My new blog site- https://akshita1506.home.blog
  Linkedin- https://www.linkedin.com/in/akshita-gupta-a4a895187
 
                  
-                    
-⚡ Fun fact about me: ✨ I love coding+baking+eating+repeating✨ 
+ ⚡ Fun fact about me: ✨ I love coding+baking+eating+repeating✨ 
+ 
+ ### eat();
+ ### sleep();
+ ### code();
+ ### repeat();
                   
 
 
