@@ -16,6 +16,8 @@ My new blog site- https://akshita1506.home.blog
 
 💬 Ask me about my experiences in IEEE.
 
+😄 Pronouns
+
 📫 Reach me at: 
           Gmail- akshitagupta15june@gmail.com
                    
