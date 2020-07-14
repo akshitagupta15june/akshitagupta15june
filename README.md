@@ -14,6 +14,8 @@ My new blog site- https://akshita1506.home.blog
 
 👯 I’m looking to collaborate on projects related to OPenCV.
 
+💬 Ask me about my experiences in IEEE.
+
 📫 Reach me at: 
           Gmail- akshitagupta15june@gmail.com
                    
