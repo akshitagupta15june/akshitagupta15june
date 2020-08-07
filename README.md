@@ -8,7 +8,7 @@ My BTech is focused in Computer Science and I am an open-source enthisiast.
 
 My new blog site- https://akshita1506.home.blog 
 
-🔭 I’m currently working as a project mentor in StudentCode-in.
+🔭 I’m currently working as a project admin as well as mentor in StudentCode-in program 2020.
 
 🌱 I’m currently learning Intelligent Transportation Systems using OpenCV and competitive programming.
 
