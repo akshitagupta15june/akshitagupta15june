@@ -26,10 +26,7 @@ My new blog site- https://akshita1506.home.blog
                  
  ⚡ Fun fact about me: ✨ I love coding+baking+eating+repeating✨ 
  
- #### eat();
- #### sleep();
- #### code();
- #### repeat();
+ #### eat(); sleep(); code(); repeat();
                   
 
 
