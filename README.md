@@ -4,7 +4,7 @@
 ## I am Akshita Gupta
 
 Meticulous and motivated undergraduate student , indulged in competitive programming,Android, field of interest is OpenCV. 
-My BTech is focused in Computer Science and I am an open-source enthisiast.
+My BTech is focused in Computer Science and I am an open-source enthisiast.Medhack 2020 national hackathon runner up.
 
 My new blog site- https://akshita1506.home.blog 
 
