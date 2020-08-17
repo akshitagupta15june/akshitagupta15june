@@ -8,7 +8,7 @@ My BTech is focused in Computer Science and I am an open-source enthisiast.Medha
 
 My new blog site- https://akshita1506.home.blog 
 
-🔭 I’m currently working as a project admin as well as mentor in StudentCode-in program 2020.
+🔭 I’m currently working as a project admin as well as mentor in StudentCode-in program 2020 and HakinCodes 2020.
 
 🌱 I’m currently learning Intelligent Transportation Systems using OpenCV and competitive programming.
 
