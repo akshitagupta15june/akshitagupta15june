@@ -13,6 +13,8 @@ My BTech is focused in Computer Science and I am an open-source enthisiast.
 
 🥇 Runner up of Esperanza green energy contest.
 
+🥇 official sponsored challenger of sustain the world design challenge with Infineon and element14 community.
+
 Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 My new blog site- https://akshita1506.home.blog 
