@@ -29,16 +29,19 @@ My new blog site- https://akshita1506.home.blog
 
 📫 Reach me at: 
           Gmail- akshitagupta15june@gmail.com
+
                    
  Linkedin- https://www.linkedin.com/in/akshita-gupta-a4a895187
 
-## My latest medium article : https://medium.com/@akshitagupta15june/my-journey-of-student-code-in-2020-d96f9b0eefb3
                  
  ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
  #### eat(); sleep(); code(); repeat();
-                  
 
+
+### My latest medium article : https://medium.com/@akshitagupta15june/my-journey-of-student-code-in-2020-d96f9b0eefb3
+
+           
 
 <!--
 **akshitagupta15june/akshitagupta15june** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
