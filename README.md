@@ -32,6 +32,7 @@ My new blog site- https://akshita1506.home.blog
                    
  Linkedin- https://www.linkedin.com/in/akshita-gupta-a4a895187
 
+## My latest medium article : https://medium.com/@akshitagupta15june/my-journey-of-student-code-in-2020-d96f9b0eefb3
                  
  ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
