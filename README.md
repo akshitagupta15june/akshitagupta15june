@@ -13,6 +13,8 @@ My BTech is focused in Computer Science and I am an open-source enthisiast.
 
 🥇 Runner up of Esperanza green energy contest.
 
+🥇 Individual outstanding performer of Intech Olympiad 2020.
+
 🥇 official sponsored challenger of sustain the world design challenge with Infineon and element14 community.
 
 Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
