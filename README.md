@@ -18,8 +18,10 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 💬 Ask me about my experiences in IEEE and in #100daysofCode challenge as well as 100 days of programming learning path.
 
 
+
 <details>
-  <h3><summary><b>🥇 Open Source Projects</b></summary></h3>
+	
+  <summary><b>🥇 Open Source Projects</b></summary>
 
   <br />
   <table>
@@ -48,7 +50,7 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
         <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/Social_Distance_detection?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/Social_Distance_detection?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/Social_Distance_detection?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/Social_Distance_detection?label=Python3&style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/Social_Distance_detection?label=Python&style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/akshitagupta15june/Face-Recognition-Attendance-System"><b>👨 Face Recognition Attd. System</b></a></td>
