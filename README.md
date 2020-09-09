@@ -16,6 +16,8 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 💬 Ask me about my experiences in IEEE and in #100daysofCode challenge as well as 100 days of programming learning path.
 
+</br>
+
 
 
 
@@ -24,8 +26,6 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 
 <div align="center">
-</br>
-</br>
 </br>
 </br>
 </br>
