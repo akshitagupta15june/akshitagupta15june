@@ -34,6 +34,8 @@ My new blog site- https://akshita1506.home.blog
 
                    
  Linkedin- https://www.linkedin.com/in/akshita-gupta-a4a895187
+ 
+ ![DO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitagupta15june&theme=graywhite&show_icons=true)
 
                  
  ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
