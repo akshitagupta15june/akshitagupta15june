@@ -17,8 +17,9 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 💬 Ask me about my experiences in IEEE and in #100daysofCode challenge as well as 100 days of programming learning path.
 
-<details>
 <summary>📈 My GitHub Stats</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshitagupta15june&show_icons=true&theme=gotham" alt="akshitagupta15june" />
+
  
 ### Connect with me!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshita-gupta-a4a895187/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Akshita_archer/)
@@ -41,7 +42,5 @@ HTML         1 hr 27 mins    █▒░░░░░░░░░░░░░░░
 YAML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 <!--END_SECTION:waka-->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshitagupta15june&show_icons=true&theme=gotham" alt="akshitagupta15june" />
 
-</details>
 
