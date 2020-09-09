@@ -36,6 +36,12 @@ My new blog site- https://akshita1506.home.blog
  Linkedin- https://www.linkedin.com/in/akshita-gupta-a4a895187
  
  ![DO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitagupta15june&theme=graywhite&show_icons=true)
+ 
+ 
+### Connect with me!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshita-gupta-a4a895187/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Akshita_archer/)
+[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akshitagupta15june) 
+
 
                  
  ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
