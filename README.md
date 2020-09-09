@@ -4,7 +4,7 @@
 Meticulous and motivated undergraduate student , indulged in competitive programming,Android, field of interest is OpenCV. 
 My BTech is focused in Computer Science and I am an open-source enthisiast.
 
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+  
 
 🥇 Medhack 2020 national hackathon Runner Up 
 
@@ -33,6 +33,8 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 </div>
 
 <div align="center">
+  
+  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
  ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
