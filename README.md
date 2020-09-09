@@ -36,11 +36,5 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 ### My latest medium article : https://medium.com/@akshitagupta15june/my-journey-of-student-code-in-2020-d96f9b0eefb3
 
-          
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/akshitagupta15june/count.svg" />
-</p>
 
-
-<div align="center">
+![](https://visitor-badge.glitch.me/badge?page_id=akshitagupta15june.akshitagupta15june)
