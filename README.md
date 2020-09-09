@@ -5,7 +5,11 @@
 Meticulous and motivated undergraduate student , indulged in competitive programming,Android, field of interest is OpenCV. 
 My BTech is focused in Computer Science and I am an open-source enthisiast.
 
-🥇 Medhack 2020 national hackathon Runner Up 🥇 winner of #MITCOVID19Challenge organized by Massachusetts Institute of Technology 🥇 Individual outstanding performer of Intech Olympiad 2020.
+🥇 Medhack 2020 national hackathon Runner Up 
+
+🥇winner of #MITCOVID19Challenge organized by Massachusetts Institute of Technology 
+
+🥇 Individual outstanding performer of Intech Olympiad 2020.
 
 Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
