@@ -4,10 +4,6 @@
 Meticulous and motivated undergraduate student , indulged in competitive programming,Android, field of interest is OpenCV. 
 My BTech is focused in Computer Science and I am an open-source enthisiast.
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="200px">
-
-
-[![](https://gitwar.herokuapp.com/badge?username=akshitagupta15june&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
   
 🥇 Medhack 2020 national hackathon Runner Up 
 
@@ -23,7 +19,7 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 
 <details>
-  <summary><b>🥇 Open Source Projects</b></summary>
+	<summary><b><h2>🥇 Open Source Projects</h2></b></summary>
 
   <br />
   <table>
