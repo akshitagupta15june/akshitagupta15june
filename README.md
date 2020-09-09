@@ -25,8 +25,6 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=akshitagupta15june&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
-
-
 </br>
   </br>
 **Languages and Tools:**
