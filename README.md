@@ -16,6 +16,9 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 🔭 I’m currently working as a project admin as well as mentor in StudentCode-in program 2020 and HakinCodes 2020.
 
 💬 Ask me about my experiences in IEEE and in #100daysofCode challenge as well as 100 days of programming learning path.
+
+<details>
+<summary>📈 My GitHub Stats</summary>
  
 ### Connect with me!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshita-gupta-a4a895187/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Akshita_archer/)
@@ -28,10 +31,16 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=akshitagupta15june.akshitagupta15june)
 
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+C++          16 hrs          ██████████████▓░░░░░░░░░░   58.77 % 
+Markdown     4 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.33 % 
+JavaScript   3 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+HTML         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+YAML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+```
+<!--END_SECTION:waka-->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshitagupta15june&show_icons=true&theme=gotham" alt="akshitagupta15june" />
 
 </details>
