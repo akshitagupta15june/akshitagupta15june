@@ -28,8 +28,9 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 
 </br>
-  
-**Languages and Tools:** 
+  </br>
+**Languages and Tools:**
+</br>
 </br>
   <p>
   
