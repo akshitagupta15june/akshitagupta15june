@@ -27,16 +27,13 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitagupta15june&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Akshita's Github Stats">
 <br>
 <br>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+
 
 
 <div align="center">
+ <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
  ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
-
-
-
-<i>Other places you can find me:</i><br>
 
 <h3>Connect with me!</h3>
  
