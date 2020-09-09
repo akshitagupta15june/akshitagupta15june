@@ -19,7 +19,7 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 
 <details>
-	<summary><b><h2>🥇 Open Source Projects</h2></b></summary>
+  <h3><summary><b>🥇 Open Source Projects</b></summary></h3>
 
   <br />
   <table>
