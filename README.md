@@ -16,13 +16,6 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 🔭 I’m currently working as a project admin as well as mentor in StudentCode-in program 2020 and HakinCodes 2020.
 
 💬 Ask me about my experiences in IEEE and in #100daysofCode challenge as well as 100 days of programming learning path.
-
-
- ![DO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitagupta15june&theme=graywhite&show_icons=true)
- 
- 📫 Reach me at: 
-          Gmail- akshitagupta15june@gmail.com
- 
  
 ### Connect with me!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshita-gupta-a4a895187/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Akshita_archer/)
