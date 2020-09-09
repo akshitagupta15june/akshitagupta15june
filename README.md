@@ -1,5 +1,4 @@
-### Hi there 👋
-
+###          Hi there 👋
 
 ## I am Akshita Gupta
 
@@ -10,26 +9,19 @@ My BTech is focused in Computer Science and I am an open-source enthisiast.
 
 🥇 winner of #MITCOVID19Challenge organized by Massachusetts Institute of Technology. 
 
-🥇 Runner up of Esperanza green energy contest.
-
 🥇 Individual outstanding performer of Intech Olympiad 2020.
-
-🥇 official sponsored challenger of sustain the world design challenge with Infineon and element14 community.
 
 Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 🔭 I’m currently working as a project admin as well as mentor in StudentCode-in program 2020 and HakinCodes 2020.
 
-🌱 I’m currently learning Intelligent Transportation Systems using OpenCV and competitive programming.
-
-👯 I’m looking to collaborate on projects related to OPenCV.
-
 💬 Ask me about my experiences in IEEE and in #100daysofCode challenge as well as 100 days of programming learning path.
 
-📫 Reach me at: 
-          Gmail- akshitagupta15june@gmail.com
- 
+
  ![DO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitagupta15june&theme=graywhite&show_icons=true)
+ 
+ 📫 Reach me at: 
+          Gmail- akshitagupta15june@gmail.com
  
  
 ### Connect with me!
