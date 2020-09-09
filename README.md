@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## I am Akshita Gupta
 
-Meticulous and motivated undergraduate student , indulged in competitive programming,Android, field of interest is OpenCV. 
+Meticulous and motivated undergraduate student , indulged in competitive programming,Android, field of interest is Computer Vision. 
 My BTech is focused in Computer Science and I am an open-source enthisiast.
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="200px">
   
