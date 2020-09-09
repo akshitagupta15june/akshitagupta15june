@@ -18,17 +18,15 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 
 
-![Akshita's github stats](https://github-readme-stats.vercel.app/api?username=akshitagupta15june&show_icons=true&theme=radical)
-</br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagupta15june&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=akshitagupta15june&theme=radical" />
+
 
 
 <div align="center">
-  
-  
-  </br>
- 
 </br>
-  </br>
 <h3>Languages and Tools:<h3>
   <p>
   
@@ -43,21 +41,12 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
   <br />
   
 </p>
-
-</br>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagupta15june&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
-
-
-</br>
- 
+ </br>
 ### Connect with me!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshita-gupta-a4a895187/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Akshita_archer/)
 [<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akshitagupta15june)   [<img src="https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://akshita1506.home.blog) 
 
-        
+ 
  ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
  #### eat(); sleep(); code(); repeat();
