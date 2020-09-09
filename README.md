@@ -22,7 +22,7 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
   
   
   </br>
-  ![Akshita Gupta's github stats](https://github-readme-stats.vercel.app/api?username=akshitagupta15june&count_private=true)
+  ![Akshita's github stats](https://github-readme-stats.vercel.app/api?username=akshitagupta15june&show_icons=true&theme=radical)
 </br>
   </br>
 <h3>Languages and Tools:<h3>
