@@ -29,13 +29,12 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 <br>
 
 </div>
-
+<div align="center">
 
 
 <div align="center">
   
-  
-<h3>Languages and Tools:</h3>
+  <h3>Languages and Tools:</h3>
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
@@ -63,6 +62,9 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
+  </div>
+  
+  
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
