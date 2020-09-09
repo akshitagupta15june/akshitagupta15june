@@ -22,15 +22,6 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 
 
- 
- ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
- 
- #### eat(); sleep(); code(); repeat();
-
-![](https://visitor-badge.glitch.me/badge?page_id=akshitagupta15june.akshitagupta15june)
-
-
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagupta15june&layout=compact" alt="Akshita's Top Languages">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitagupta15june&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Akshita's Github Stats">
@@ -42,8 +33,6 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 <div align="center">
  ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
-
-![](https://visitor-badge.glitch.me/badge?page_id=akshitagupta15june.akshitagupta15june)
 
 
 
