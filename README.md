@@ -22,7 +22,10 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 **Languages and Tools:** 
 
-<p>
+
+<div align="center">
+  
+  <p>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
@@ -36,7 +39,6 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
   
 </p>
 
-<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagupta15june&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
