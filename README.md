@@ -18,24 +18,6 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 
 
-<a href="https://github.com/akshitagupta15june/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.akshitagupta15june.vercel.app/api?username=akshitagupta15june&show_icons=true&include_all_commits=true&theme=radical" alt="Akshita's github stats" />
-</a>
-<a href="https://github.com/akshitagupta15june/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.akshitagupta15june.vercel.app/api/top-langs/?username=akshitagupta15june&layout=compact&theme=radical" />
-</a>
-
-<a href="https://github.com/akshitagupta15june/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.akshitagupta15june.vercel.app/api/pin/?username=akshitagupta15june&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/akshitagupta15june/akshitagupta15june.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.akshitagupta15june.vercel.app/api/pin/?username=akshitagupta15june&repo=akshitagupta15june.github.io&theme=radical" />
-</a>
-
-
 ![Akshita's github stats](https://github-readme-stats.vercel.app/api?username=akshitagupta15june&show_icons=true&theme=radical)
 </br>
 
