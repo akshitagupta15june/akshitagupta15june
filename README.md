@@ -24,13 +24,14 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 <img align="right" src="https://github-readme-stats.vercel.app/api/?username=akshitagupta15june&theme=radical" />
 
 
-
+</br>
+</br>
 <div align="center">
 </br>
 </br>
+
 <h3>Languages and Tools:<h3>
   <p>
-  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <br />
