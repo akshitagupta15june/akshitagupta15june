@@ -1,5 +1,4 @@
-###          Hi there 👋
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## I am Akshita Gupta
 
 Meticulous and motivated undergraduate student , indulged in competitive programming,Android, field of interest is OpenCV. 
