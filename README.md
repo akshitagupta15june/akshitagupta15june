@@ -20,6 +20,52 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 💬 Ask me about my experiences in IEEE and in #100daysofCode challenge as well as 100 days of programming learning path.
 
+
+<details>
+  <summary><b>🥇 Open Source Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/akshitagupta15june/lane_detection_opencv"><b>🚀 Lane Detection (OpenCV)</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/lane_detection_opencv?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/lane_detection_opencv?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/akshitagupta15june/Social_Distance_detection"><b>💻 Social Distance Detection</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/Social_Distance_detection?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/Social_Distance_detection?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/Social_Distance_detection?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/Social_Distance_detection?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/Social_Distance_detection?label=Python3&style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/akshitagupta15june/Face-Recognition-Attendance-System"><b>👨 Face Recognition Attd. System</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+
 </br>
 
 <div align="center">
