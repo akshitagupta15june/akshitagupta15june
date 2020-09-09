@@ -23,7 +23,7 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
 
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=radical" width="350"></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagupta15june&layout=compact" alt="Akshita's Top Languages">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagupta15june&layout=compact" width="350"></a>
 
 
 <br>
