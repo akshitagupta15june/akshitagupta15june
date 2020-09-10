@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="70px">
+<img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px">
 
 Meticulous and motivated undergraduate student , indulged in competitive programming,Android, field of interest is Computer Vision. 
 My BTech is focused in Computer Science and I am an open-source enthisiast.
