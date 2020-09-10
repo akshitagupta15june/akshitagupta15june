@@ -7,7 +7,7 @@ My BTech is focused in Computer Science and I am an open-source enthisiast.
   
 🥇 Medhack 2020 national hackathon Runner Up 
 
-🥇winner of #MITCOVID19Challenge organized by Massachusetts Institute of Technology 
+🥇 winner of #MITCOVID19Challenge organized by Massachusetts Institute of Technology 
 
 🥇 Individual outstanding performer of Intech Olympiad 2020.
 
