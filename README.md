@@ -3,7 +3,7 @@
 
 Meticulous and motivated undergraduate student , indulged in competitive programming,Android, field of interest is Computer Vision. 
 My BTech is focused in Computer Science and I am an open-source enthisiast.
-<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="200px">
+<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
   
 🥇 Medhack 2020 national hackathon Runner Up 
 
