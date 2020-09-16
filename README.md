@@ -96,7 +96,7 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
- ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
+ ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
 
 <h3>Connect with me!</h3>
