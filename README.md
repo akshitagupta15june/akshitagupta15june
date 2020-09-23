@@ -54,7 +54,7 @@ Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/Social_Distance_detection?label=Python&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/akshitagupta15june/Face-Recognition-Attendance-System"><b>👨 Face Recognition Attd. System</b></a></td>
+	      <td><a href="https://github.com/akshitagupta15june/Face-X"><b>👨 Face Recognition Attd. System</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td>
