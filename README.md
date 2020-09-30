@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px">
 
-Meticulous and motivated undergraduate student , indulged in competitive programming,Android, field of interest is Computer Vision. 
-My BTech is focused in Computer Science and I am an open-source enthisiast.
+Meticulous and motivated undergraduate student, indulged in competitive programming,Android devlopment,focused in software engineering.
+My BTech is focused in Computer Science and I am an open-source enthusiast.
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
   
 🥇 Medhack 2020 national hackathon Runner Up 
