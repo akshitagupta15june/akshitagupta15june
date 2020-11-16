@@ -10,9 +10,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
 🥇 Individual outstanding performer of Intech Olympiad 2020.
 
-Software Development Intern at WAFERCHIPS TECHNO SOLUTIONS PVT LTD.
-
-🔭 I’m currently working as a project admin as well as mentor in StudentCode-in program 2020 and HakinCodes 2020.
+🔭 I worked as a project admin as well as mentor in StudentCode-in program 2020, HakinCodes 2020 and SLOP'2020.
 
 💬 Ask me about my experiences in IEEE and in #100daysofCode challenge as well as 100 days of programming learning path.
 
