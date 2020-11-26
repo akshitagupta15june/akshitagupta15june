@@ -43,12 +43,12 @@ Meticulous and motivated undergraduate student , indulged in competitive program
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/akshitagupta15june/Social_Distance_detection"><b>💻 Social Distance Detection</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/Social_Distance_detection?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/Social_Distance_detection?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/Social_Distance_detection?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/Social_Distance_detection?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/Social_Distance_detection?label=Python&style=flat-square"/></td>
+	      <td><a href="https://github.com/akshitagupta15june/vehicle_speed_estimator"><b>💻 Vehicle Speed Estimator</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/vehicle_speed_estimator?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/vehicle_speed_estimator?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/vehicle_speed_estimator?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/vehicle_speed_estimator?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/vehicle_speed_estimator?label=Python&style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/akshitagupta15june/Face-X"><b>👨 Face-X</b></a></td>
