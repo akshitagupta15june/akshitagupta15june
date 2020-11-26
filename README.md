@@ -13,7 +13,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 	
 </br>	
 	
-  <summary><b>🥇 Open Source Projects</b></summary>
+  <summary><b>🥇 Open Source Projects curently under NJACK NWoC'20 </b></summary>
 
 
   <br />
