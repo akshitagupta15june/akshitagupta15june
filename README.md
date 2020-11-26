@@ -4,19 +4,11 @@
 Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast. I have worked as project admin/mentor in various organisation.
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
   
-🥇 Medhack 2020 national hackathon Runner Up 
-
-🥇 winner of #MITCOVID19Challenge organized by Massachusetts Institute of Technology 
+🥇 Medhack 2020 national hackathon Runner Up.
 
 🥇 Individual outstanding performer of Intech Olympiad 2020.
 
-🔭 I worked as a project admin as well as mentor in StudentCode-in program 2020, HakinCodes 2020 and SLOP'2020.
-
-💬 Ask me about my experiences in IEEE and in #100daysofCode challenge as well as 100 days of programming learning path.
-
-
-
-
+🔭 I worked as a project admin as well as mentor in StudentCode-in program 2020, HakinCodes 2020 and SLOP'2020.Currently working as mentor at NJACK NWoC 2020(IIT Patna)
 
 	
   <summary><b>🥇 Open Source Projects</b></summary>
