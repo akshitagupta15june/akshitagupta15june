@@ -66,12 +66,14 @@ Meticulous and motivated undergraduate student , indulged in competitive program
   </a>
 </p>
 </details>
-
+<details>
+	 <summary>GitHub Stats</summary>
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=akshitagupta15june&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagupta15june&layout=compact&theme=radical" width="350" height="250" ></a>
 
 </div>
+</details>
 
 <div align="center">
   
