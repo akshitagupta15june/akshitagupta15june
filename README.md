@@ -56,6 +56,16 @@ Meticulous and motivated undergraduate student , indulged in competitive program
       </tr>
     </tbody>
   </table>
+  
+  
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=akshitagupta15june&theme=gruvbox"/>
+  </a>
+</p>
+</details>
 
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=akshitagupta15june&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
