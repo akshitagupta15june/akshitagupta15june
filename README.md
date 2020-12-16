@@ -111,9 +111,10 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
 ![](https://visitor-badge.glitch.me/badge?page_id=akshitagupta15june.akshitagupta15june)
 
-
-
 </div>
 
 
+<a href="https://github.com/Akshita_archer/github-readme-twitter">
+<img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=Akshita_archer&layout=wide&show_reply=off&show_retweet=off" />
+</a>
 
