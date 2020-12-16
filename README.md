@@ -118,3 +118,5 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=Akshita_archer&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 
+[![Akshita Medium post](https://github-readme-medium.vercel.app/?username=akshitagupta15june)](https://medium.com/@akshitagupta15june)
+
