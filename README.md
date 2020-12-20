@@ -56,7 +56,13 @@ Meticulous and motivated undergraduate student , indulged in competitive program
       </tr>
     </tbody>
   </table>
-  
+<p align="center">
+  <a>
+   
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitagupta15june&theme=dark&hide_border=true"/>
+   
+</p>
+<br/>  
   
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
