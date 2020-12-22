@@ -10,6 +10,8 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
 🔭 I worked as a project admin and mentor in StudentCode-in program 2020, HakinCodes 2020 and SLOP'2020.Currently working as mentor at NJACK NWoC 2020(IIT Patna) and Project admin at Script Winter of code 20-21 (SWOC-20).
 
+🌟 STAR THE REPOS IF YOU LIKE 🌟
+
 	
 	
 </br>
