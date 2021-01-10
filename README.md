@@ -8,7 +8,22 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
 🥇 Individual outstanding performer of Intech Olympiad 2020.
 
-🔭 I worked as a project admin and mentor in StudentCode-in program 2020, HakinCodes 2020 and SLOP'2020.Currently working as mentor at NJACK NWoC 2020(IIT Patna) ,Project admin at Script Winter of code 20-21 (SWOC-20), DevScript Winter of Code S01 Project Mentor at Winter of Code 1.0 and mentor at UAceIt Winter of Mentorship
+🔭 I have  worked as a 
+project admin and mentor in StudentCode-in program 2020\
+
+Mentor at HakinCodes 2020 
+
+Mentor at SLOP'2020
+
+Mentor at NJACK NWoC 2020(IIT Patna) 
+
+Project admin at Script Winter of code 20-21 (SWOC-20)
+
+DevScript Winter of Code S01 
+
+Project Mentor at Winter of Code 1.0 
+
+Mentor at UAceIt Winter of Mentorship
 
 
 Developer Student Club of IIIT Kalyani .
