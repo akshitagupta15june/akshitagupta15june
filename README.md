@@ -61,12 +61,7 @@ Project admin at StudentCode-in program 2020  , Mentor at HakinCodes 2020  , Men
       </tr>
     </tbody>
   </table>
-<p align="center">
-  <a>
-   <img height="180" width="160" src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/meditation.gif">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitagupta15june&theme=dark&hide_border=true"/>
-   <img height="180" width="160" src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/dance.gif">
-</p>
+
 <br/>  
   
 <details align="center">
