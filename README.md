@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px">
 
 Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast. I have worked as project admin/mentor in various organisation.
@@ -13,7 +13,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 Project admin at StudentCode-in program 2020  , Mentor at HakinCodes 2020  , Mentor at SLOP'2020  , Mentor at NJACK NWoC 2020(IIT Patna) , Project admin at Script , Winter of code 20-21 , DevScript Winter of Code S01  , Project Mentor at Winter of Code 1.0 , Mentor at UAceIt Winter of Mentorship
 
 
-🌟 STAR THE REPOS IF YOU LIKE 🌟
+🌟 STAR THE REPOS IF YOU LIKE 🌟<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
 	
 	
