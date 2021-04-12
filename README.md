@@ -13,7 +13,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 Project admin at StudentCode-in program 2020  , Mentor at HakinCodes 2020  , Mentor at SLOP'2020  , Mentor at NJACK NWoC 2020(IIT Patna) , Project admin at Script , Winter of code 20-21 , DevScript Winter of Code S01  , Project Mentor at Winter of Code 1.0 , Mentor at UAceIt Winter of Mentorship
 
 
-🌟 STAR THE REPOS IF YOU LIKE 🌟<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
+🌟 STAR THE REPOS IF YOU LIKE 🌟
 
 	
 	
@@ -110,7 +110,7 @@ Project admin at StudentCode-in program 2020  , Mentor at HakinCodes 2020  , Men
  ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
 
-<h2>Connect with me!</h2>
+<h2>Connect with me!  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshita-gupta-a4a895187/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Akshita_archer/)
 [<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akshitagupta15june)   [<img src="https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://akshita1506.home.blog) 
