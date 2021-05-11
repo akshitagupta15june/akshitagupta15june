@@ -4,9 +4,6 @@
 Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast. I have worked as project admin/mentor in various organisation.
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
   
-🥇 Medhack 2020 national hackathon Runner Up.
-
-🥇 Individual outstanding performer of Intech Olympiad 2020.
 
 🔭 I have  worked as a 
 
