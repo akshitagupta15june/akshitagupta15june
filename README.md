@@ -61,16 +61,9 @@ Project admin at StudentCode-in program 2020  , Mentor at HakinCodes 2020  , Men
 
 <br/>  
   
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=akshitagupta15june&theme=gruvbox"/>
-  </a>
-</p>
-</details>
+
 <details>
-	 <summary>Github Stats 📈:</summary>
+	<summary>Github Stats 📈:</summary>
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=akshitagupta15june&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagupta15june&layout=compact&theme=radical" width="350" height="250" ></a>
@@ -80,18 +73,7 @@ Project admin at StudentCode-in program 2020  , Mentor at HakinCodes 2020  , Men
 
 <div align="center">
   
-<h3>Languages and Framework:</h3>
 
-<img align="center" alt="Android Studio" width="63px" src="https://qph.fs.quoracdn.net/main-qimg-357f02231aed5b6a7c815c576b09b29f"/>
-<img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
-<img align="center" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
-<img align="center" alt="GitHub" width="80px" src="https://keras.io/img/logo.png" />
-<img align="center" alt="OpenCV" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" />
-<img align="center" alt="GitHub" width="30px" src="https://numpy.org/images/logos/numpy.svg" />
-<img align="center" alt="GitHub" width="34px" src="https://jupyter.org/assets/main-logo.svg" />
-<img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </br>
 
 
