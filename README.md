@@ -7,7 +7,7 @@ Meticulous and motivated undergraduate student , indulged in competitive program
 
 🔭 I have  worked as a 
 
-Project admin at StudentCode-in program 2020  , Mentor at HakinCodes 2020  , Mentor at SLOP'2020  , Mentor at NJACK NWoC 2020(IIT Patna) , Project admin at Script , Winter of code 20-21 , DevScript Winter of Code S01  , Project Mentor at Winter of Code 1.0 , Mentor at UAceIt Winter of Mentorship
+Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor at SLOP'2020, Mentor at NJACK NWoC 2020(IIT Patna), Project admin at Script, Winter of code 20-21, DevScript Winter of Code S01, Project Mentor at Winter of Code 1.0, Mentor at UAceIt Winter of Mentorship and GSSOC 2021.
 
 
 🌟 STAR THE REPOS IF YOU LIKE 🌟
