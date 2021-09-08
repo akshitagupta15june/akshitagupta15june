@@ -94,14 +94,7 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
 </div>
 
 
-<a href="https://github.com/Akshita_archer/github-readme-twitter">
-<img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=Akshita_archer&layout=wide&show_reply=off&show_retweet=off" />
-</a>
 
-[![Akshita Medium post](https://github-readme-medium.vercel.app/?username=akshitagupta15june)](https://medium.com/@akshitagupta15june)
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
