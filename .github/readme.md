@@ -106,9 +106,4 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
 <br/>
 <br/>
 
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
-<!-- https://github.com/Ayan-thecodeking/akshitagupta15june/blob/output/github-contribution-grid-snake.gif?raw=true -->
