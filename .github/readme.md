@@ -2,7 +2,7 @@
 # Hello, folks! <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px">
 
-Hey! I am Akshita, I am an open source contributor and I love to take part in hackathons. 
+I am an open source contributor and I love to take part in hackathons. 
 
 My blogs site: [Medium](https://medium.com/@akshitagupta15june)
 
