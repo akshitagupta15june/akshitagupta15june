@@ -7,7 +7,7 @@
 
 I am an open source contributor and I love to take part in hackathons. 
 
-My blogs site: [Medium](https://medium.com/@akshitagupta15june)
+My blogs site: [Blogs](https://medium.com/@akshitagupta15june)
 
 My Hackathons projects Portfolio: [Projects](https://devpost.com/akshitagupta15june)
 
