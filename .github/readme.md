@@ -17,11 +17,9 @@ I am inspired by quote "If you want to shine like a sun, first burn like a sun."
 
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
+
 	
-	
-</br>
-	
-  <summary><h2><b>🥇 Projects open for contributions.</b></h2></summary>
+<h2><b>🥇 Projects open for contributions.</b></h2>
 
 
   <br />
