@@ -21,7 +21,7 @@ I am inspired by quote "If you want to shine like a sun, first burn like a sun."
 	
 </br>
 	
-  <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
+  <summary><h2><b>🥇 Projects open for contributions.</b></h2></summary>
 
 
   <br />
