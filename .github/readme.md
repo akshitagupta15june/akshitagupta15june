@@ -80,7 +80,7 @@ Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor 
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
   
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/octocat.jpeg" height=300 width=300>
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/octocat.jpeg" height=370 width=300><img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/Images/gard-pic.jpeg" height=370 width=300><img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/Images/grad-dia.jpeg" height=370 width=300>
 
  ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
