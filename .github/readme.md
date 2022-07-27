@@ -2,6 +2,9 @@
 # Hello, folks! <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px">
 
+
+<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
+
 I am an open source contributor and I love to take part in hackathons. 
 
 My blogs site: [Medium](https://medium.com/@akshitagupta15june)
@@ -11,11 +14,7 @@ My Hackathons projects Portfolio: [Projects](https://devpost.com/akshitagupta15j
 I am inspired by quote "If you want to shine like a sun, first burn like a sun." -A. P. J. Abdul Kalam🙏
 
 
-<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
-
-
-
-🌟 STAR THE REPOS IF YOU LIKE 🌟
+🌟 STAR THE REPOSITORIES IF YOU LIKE 🌟
 
 
 	
