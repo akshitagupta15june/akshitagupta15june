@@ -5,7 +5,14 @@
 
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
 
-I am an open source contributor and I love to take part in hackathons. 
+I am a recent Computer Science and Engineering graduate from Pranveer Singh Institute of Technology, Kanpur, and an XR open-source fellow at Z-Anatomy. My focus is on developing 3D gaming applications using Unity 3D for Z-Anatomy in the extended reality domain. I have exceptional teamwork skills and am constantly looking to add value to any project I undertake.
+
+### XROS'23 Fellow
+
+My work at [Z-Anatomy](https://www.z-anatomy.com/) is supported by the [XROS Fellowship](https://xrosfellowship.ficci.in/), which is sponsored by Meta (Facebook) and FICCI and initiated by Reskill. This fellowship provides me with the opportunity to work on cutting-edge projects and explore my creativity while gaining valuable industry experience.
+
+I possess a strong aptitude for leadership roles and have successfully completed numerous projects as part of a team or as a leader. My proficiency is evident from my experience in various hackathons, where I have won over 50 technical and business hackathons, including highly esteemed international events such as "MIT Grand Hacks" and "MIT Hacking Racism."
+
 
 My blogs site: [Blogs](https://medium.com/@akshitagupta15june)
 
