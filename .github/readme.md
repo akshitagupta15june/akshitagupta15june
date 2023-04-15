@@ -5,7 +5,7 @@
 
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
 
-I am a recent Computer Science and Engineering graduate from Pranveer Singh Institute of Technology, Kanpur, and an XR open-source fellow at Z-Anatomy. My focus is on developing 3D gaming applications using <b>Unity 3D</b> for Z-Anatomy in the extended reality domain. I have exceptional teamwork skills and am constantly looking to add value to any project I undertake.
+I am a recent Computer Science and Engineering graduate from Pranveer Singh Institute of Technology, Kanpur, and an XR open-source fellow at Z-Anatomy. My focus is on developing 3D gaming applications using <b>Unity 3D</b> and <b>Blender</b> for Z-Anatomy in the extended reality domain. I have exceptional teamwork skills and am constantly looking to add value to any project I undertake.
 
 ### XROS'23 Fellow
 
