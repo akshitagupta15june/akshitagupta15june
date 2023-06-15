@@ -89,9 +89,7 @@ I possess a strong aptitude for leadership roles and have successfully completed
 
  ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
  
- <p>
-    <img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/achievements?format=svg&limit=3" width="350" />
-</p>
+
  
 
 <h2>Connect with me!  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2>
