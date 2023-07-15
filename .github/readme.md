@@ -88,7 +88,11 @@ I possess a strong aptitude for leadership roles and have successfully completed
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/octocat.jpeg" height=370 width=300><img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/Images/grad-dia.jpeg" height=370 width=300>
 
  ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
- 
+ <p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+    </a>
+</p>
 
  
 
