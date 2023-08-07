@@ -93,6 +93,9 @@ I possess a strong aptitude for leadership roles and have successfully completed
         <img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
     </a>
 </p>
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/achievements?format=svg&limit=3" width="350" />
+</p>
 
  
 
