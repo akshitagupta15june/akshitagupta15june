@@ -94,7 +94,7 @@ I possess a strong aptitude for leadership roles and have successfully completed
     </a>
 </p>
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/achievements?format=svg&limit=3" width="350" />
+  <img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/achievements?format=svg&limit=6" width="350" />
 </p>
 
  
