@@ -2,7 +2,7 @@ version: 0.0.1
 achievements:
   - achievement:
       name: Shooting Star
-      icon: https://raw.githubusercontent.com/vauntdev//main/.vaunt/shooting_star.png
+      icon: https://raw.githubusercontent.com/vauntdev/example/main/.vaunt/shooting_star.png
       description: Awarded for staring our repository, make a wish!
       triggers:
         - trigger:
