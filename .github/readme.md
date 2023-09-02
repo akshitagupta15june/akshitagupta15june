@@ -5,7 +5,7 @@
 
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
 
-I am a 2022 graduate from Pranveer Singh Institute of Technology, Kanpur with a degree in Computer Science and Engineering. I possess experience in various areas including computer vision with OpenCV, XR development, and creating pedagogy solutions using Unity 3D. Additionally, I have worked on the frontend development of web applications using ReactJS and NodeJS. 
+I am currently pursuing Master of Technology (MTech) program at IIIT Pune, focused in Computer Science and Engineering. My background includes hands-on involvement in diverse domains such as OpenCV-based computer vision, XR development, and the design of educational solutions utilizing Unity 3D. Moreover, I have engaged in frontend development for web applications, employing technologies like ReactJS and NodeJS.
 
 My current work at [Z-Anatomy](https://github.com/LluisV/Z-Anatomy-testing) is supported by the [XROS Fellowship](https://xrosfellowship.ficci.in/), which is sponsored by <b>Meta (Facebook)</b> and FICCI and initiated by Reskill. This fellowship provides me with the opportunity to work on cutting-edge projects and explore my creativity while gaining valuable industry experience.
 
