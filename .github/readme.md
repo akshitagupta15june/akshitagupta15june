@@ -7,14 +7,15 @@
 
 I am currently pursuing Master of Technology (MTech) program at IIIT Pune, focused in Computer Science and Engineering. My background includes hands-on involvement in diverse domains such as OpenCV-based computer vision, XR development, and the design of educational solutions utilizing Unity 3D. Moreover, I have engaged in frontend development for web applications, employing technologies like ReactJS and NodeJS.
 
-My current work at [Z-Anatomy](https://github.com/LluisV/Z-Anatomy-testing) is supported by the [XROS Fellowship](https://xrosfellowship.ficci.in/), which is sponsored by <b>Meta (Facebook)</b> and FICCI and initiated by Reskill. This fellowship provides me with the opportunity to work on cutting-edge projects and explore my creativity while gaining valuable industry experience.
+1) Selected as a recipient of the XROS Fellowship, sponsored by Meta (formerly Facebook) and FICCI, initiated by Reskill.
+2) Among the top 100 developers chosen out of a large pool of applicants from India.
+3) Engaged in cutting-edge projects and gained valuable industry experience through the XROS Fellowship.
+4) Strong aptitude for leadership roles, with a track record of completing numerous projects as part of a team or as a leader.
+5) Accomplished over 40 technical and business hackathons, including international events like SAAI Factory hack (International Hackathon on Art and AI).
 
-I possess a strong aptitude for leadership roles and have successfully completed numerous projects as part of a team or as a leader. My proficiency is evident from my experience in various hackathons, where <b>I have won over 50 technical and business hackathons</b>, including highly esteemed international events such as "MIT Grand Hacks" and "MIT Hacking Racism."
+##### I take Informative session on my [YouTube](https://youtube.com/@akshitagupta1137?feature=shared) channel.
 
-
-##### My blogs site: [Blogs](https://medium.com/@akshitagupta15june)
-
-##### My Hackathons projects Portfolio: [Projects](https://devpost.com/akshitagupta15june)
+##### My [Blogs](https://medium.com/@akshitagupta15june) and [Hackathons Projects](https://devpost.com/akshitagupta15june).
 
 #### I am inspired by quote "If you want to shine like a sun, first burn like a sun." -A. P. J. Abdul Kalam🙏
 
